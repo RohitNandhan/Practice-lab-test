@@ -28,7 +28,7 @@ public class BinarySearch {
 	public static void main(String args[]){
 			
 	        int arr[],mid,first,last;	
-			arr =new int[] {2,3,7,10,12,15,53};
+			arr =new int[] {1,2,3,7,10,12,15,29,56};
 			System.out.println("ARRAY1 :");
 			for(int i=0;i<arr.length;i++) {
 				System.out.print(arr[i]+" ");
